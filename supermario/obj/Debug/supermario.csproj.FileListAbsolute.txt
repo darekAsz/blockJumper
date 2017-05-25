@@ -1,0 +1,9 @@
+c:\users\darek\documents\visual studio 2015\Projects\supermario\supermario\bin\Debug\supermario.exe.config
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\bin\Debug\supermario.exe
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\bin\Debug\supermario.pdb
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\obj\Debug\supermario.csprojResolveAssemblyReference.cache
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\obj\Debug\supermario.Form1.resources
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\obj\Debug\supermario.Properties.Resources.resources
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\obj\Debug\supermario.csproj.GenerateResource.Cache
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\obj\Debug\supermario.exe
+C:\Users\Darek\documents\visual studio 2015\Projects\supermario\supermario\obj\Debug\supermario.pdb
